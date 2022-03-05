@@ -1,0 +1,55 @@
+body {
+  font-family: sans-serif;
+}
+
+input {
+  border-radius: 3px;
+  border: none;
+  padding: 10px 12px;
+}
+
+button {
+  border-radius: 5px;
+  border: none;
+  padding: 8px 12px;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+li {
+  margin-right: 5px;
+}
+
+.add-area {
+  background-color: #b0c4de;
+  width: 600px;
+  padding: 8px;
+  margin: 8px;
+  border-radius: 3px;
+}
+
+.schedule-list-area {
+  background-color: #b0c4de;
+  width: 600px;
+  min-height: 300px;
+  padding: 8px;
+  margin: 8px;
+  border-radius: 3px;
+}
+
+.title {
+  text-align: center;
+  margin-top: 0;
+  font-weight: bold;
+  color: #555;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  padding-bottom: 5px;
+}
