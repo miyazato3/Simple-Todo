@@ -8,22 +8,13 @@
   <body>
     <h1>Too simple time manegement app</h1>
     <div class="add-area">
-      <input type="time" step="600" />
-      <input placeholder="予定を入力してください" />
-      <button>追加</button>
+      <input id="schedule-time" type="time" step="600" />
+      <input id="schedule-name" placeholder="予定を入力してください" />
+      <button id="add-button">追加</button>
     </div>
     <div class="schedule-list-area">
       <p class="title">追加された予定</p>
-      <ul>
-        <div class="list">
-          <li>10:30 から「休憩」</li>
-          <button>削除</button>
-        </div>
-        <div class="list">
-          <li>11:00 から「勉強」</li>
-          <button>削除</button>
-        </div>
-      </ul>
+      <ul id="schedule-list"></ul>
     </div>
     <script src="src/index.js"></script>
   </body>
