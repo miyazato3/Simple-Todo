@@ -6,7 +6,7 @@
 
 You can add schedule by input a schedule name to textbox and click add button.
 
-![](https://user-images.githubusercontent.com/94374364/156888320-9367f4b9-2ab5-46e3-a70b-0fd5722ce919.PNG)
+![](https://user-images.githubusercontent.com/94374364/157402810-70857acc-e400-4dc0-9d39-b484e068d078.PNG)
 
 This image is input screen and list screen of schedule.
 
