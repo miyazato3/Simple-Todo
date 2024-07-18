@@ -1,6 +1,6 @@
-# Too-Simple-Time-Manegement-App
+# Simple-Todo
 
-"Too-Simple-Time-Manegement-App" is web application which can manegement time.
+"Simple-Todo" is web application which can manegement time.
 
 # DEMO
 
